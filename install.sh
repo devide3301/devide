@@ -17,6 +17,8 @@ echo "[+] Installing configs..."
 
 cp .zshrc ~/
 cp .vimrc ~/
+mkdir -p ~/.config/fastfetch
+cp fastfetch.jsonc ~/.config/fastfetch/config.jsonc
 
 echo "[+] Importing terminal profile..."
 
