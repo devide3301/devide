@@ -1,0 +1,46 @@
+[legacy]
+default-show-menubar=false
+
+[legacy/keybindings]
+paste='<Primary>v'
+
+[legacy/profiles:]
+list=['2cdd88fb-2e99-4496-a855-3e0e10b1b9b1']
+
+[legacy/profiles:/:2cdd88fb-2e99-4496-a855-3e0e10b1b9b1]
+background-color='#282c34'
+bold-color='#dcdfe4'
+bold-color-same-as-fg=true
+bold-is-bright=true
+cell-height-scale=1.0
+cell-width-scale=1.0
+cursor-blink-mode='off'
+cursor-shape='ibeam'
+default-size-columns=80
+font='JetBrains Mono NL 11'
+foreground-color='#dcdfe4'
+palette=['#282c34', '#e06c75', '#98c379', '#e5c07b', '#61afef', '#c678dd', '#56b6c2', '#dcdfe4', '#282c34', '#e06c75', '#98c379', '#e5c07b', '#61afef', '#c678dd', '#56b6c2', '#dcdfe4']
+scroll-on-output=false
+scrollbar-policy='never'
+use-system-font=false
+use-theme-background=false
+use-theme-colors=false
+visible-name='URDev'
+
+[legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+background-color='rgb(23,20,33)'
+bold-color='#6E46A4'
+bold-color-same-as-fg=false
+bold-is-bright=true
+cell-height-scale=1.0
+cell-width-scale=1.0
+cursor-blink-mode='off'
+cursor-shape='ibeam'
+default-size-columns=80
+font='JetBrains Mono 10'
+foreground-color='rgb(208,207,204)'
+palette=['#262626', '#E356A7', '#42E66C', '#E4F34A', '#9B6BDF', '#E64747', '#75D7EC', '#EFA554', '#7A7A7A', '#FF79C6', '#50FA7B', '#F1FA8C', '#BD93F9', '#FF5555', '#8BE9FD', '#FFB86C']
+scrollbar-policy='never'
+use-system-font=false
+use-theme-colors=false
+visible-name='URDev'
