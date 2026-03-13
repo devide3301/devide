@@ -19,6 +19,9 @@ cp .zshrc ~/
 cp .vimrc ~/
 mkdir -p ~/.config/fastfetch
 cp fastfetch.jsonc ~/.config/fastfetch/config.jsonc
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+echo Go to vim and type ":PlugInstall"
 
 echo "[+] Importing terminal profile..."
 
